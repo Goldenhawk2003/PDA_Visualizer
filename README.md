@@ -22,3 +22,13 @@ The PDA Visualizer is an interactive tool designed to provide a graphical repres
 3. Use the graphical interface to create or import PDAs.
 4. Visualize and simulate PDAs by providing input strings.
 5. Analyze simulation results and stack changes.
+
+Contributors
+------------
+
+- Khushboo Shrivastava
+
+License
+-------
+
+This project is licensed under the [MIT License](LICENSE).
